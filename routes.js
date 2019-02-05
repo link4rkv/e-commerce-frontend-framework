@@ -1,0 +1,10 @@
+const routes = require('next-routes')
+
+module.exports = routes()
+  .add('product', '/product/:slug', 'productDetails')
+  .add('browse', '/browse', 'categories')
+  .add('account', '/accounts', 'accounts')
+  .add('tag', '/tag/:slug', 'tagDetails')
+  .add('brand', '/brand/:slug', 'brandDetails')
+  .add('category', '/category/:slug', 'categoryDetails')
+  .add('page', '/page/:title', 'static-pages')

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>system-icons/expand</title>
+    <desc>Created with Sketch.</desc>
+    <g id="system-icons/expand" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(6.000000, 9.000000)" fill="#1557BF" id="Shape">
+            <path d="M11.3328018,0.69319091 C10.9280865,0.310352142 10.2691793,0.312938458 9.87111633,0.689484557 L6,4.35135135 L2.12888367,0.689484557 C1.72633234,0.308692751 1.07529297,0.3071553 0.667198181,0.69319091 L0.732801819,0.631133415 C0.32808655,1.01397218 0.32258606,1.6294733 0.72374019,2.00894342 L5.27625981,6.3153809 C5.67597048,6.69348559 6.32258606,6.69485102 6.72374019,6.3153809 L11.2762598,2.00894342 C11.6759705,1.63083874 11.675293,1.01716902 11.2671982,0.631133415 L11.3328018,0.69319091 Z"></path>
+        </g>
+    </g>
+</svg>

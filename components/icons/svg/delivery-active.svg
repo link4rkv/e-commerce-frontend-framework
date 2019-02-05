@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>system-icons/delivery-active</title>
+    <desc>Created with Sketch.</desc>
+    <g id="system-icons/delivery-active" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(1.500000, 6.000000)">
+            <g id="Group-21">
+                <polygon id="Fill-1" fill="#5CC151" points="14.5 11.5 20.499 11.5 20.499 7.5 14.5 7.5"></polygon>
+                <g id="Group-20">
+                    <path d="M14.4996,11.5 L2.4996,11.5 C1.3956,11.5 0.4996,10.604 0.4996,9.5 L0.4996,0.5 L14.4996,0.5 L14.4996,11.5 Z" id="Fill-2" fill="#5CC151"></path>
+                    <path d="M14.4996,11.5 L2.4996,11.5 C1.3956,11.5 0.4996,10.604 0.4996,9.5 L0.4996,1.5 C0.4996,0.948 0.9476,0.5 1.4996,0.5 L13.4996,0.5 C14.0526,0.5 14.4996,0.948 14.4996,1.5 L14.4996,11.5 Z" id="Stroke-4" stroke="#0B8043" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M19.8902,7.5 L0.4992,7.5" id="Stroke-8" stroke="#0B8043" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M19.4996,11.5 L14.4996,11.5 L14.4996,3.5 L16.8006,3.5 C17.1036,3.5 17.3896,3.637 17.5786,3.873 L20.2786,7.226 C20.4226,7.403 20.4996,7.625 20.4996,7.853 L20.4996,10.5 C20.4996,11.053 20.0526,11.5 19.4996,11.5 Z" id="Stroke-10" stroke="#0B8043" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M8.3678,11.5 C8.3678,12.881 7.2478,14 5.8678,14 C4.4868,14 3.3678,12.881 3.3678,11.5 C3.3678,10.119 4.4868,9 5.8678,9 C7.2478,9 8.3678,10.119 8.3678,11.5" id="Fill-12" fill="#0B8043"></path>
+                    <path d="M7.1178,11.5 C7.1178,12.19 6.5568,12.75 5.8678,12.75 C5.1778,12.75 4.6178,12.19 4.6178,11.5 C4.6178,10.81 5.1778,10.25 5.8678,10.25 C6.5568,10.25 7.1178,10.81 7.1178,11.5" id="Fill-14" fill="#FFFFFF"></path>
+                    <path d="M19.9996,11.5 C19.9996,12.881 18.8806,14 17.4996,14 C16.1196,14 14.9996,12.881 14.9996,11.5 C14.9996,10.119 16.1196,9 17.4996,9 C18.8806,9 19.9996,10.119 19.9996,11.5" id="Fill-16" fill="#0B8043"></path>
+                    <path d="M18.7496,11.5 C18.7496,12.19 18.1896,12.75 17.4996,12.75 C16.8096,12.75 16.2496,12.19 16.2496,11.5 C16.2496,10.81 16.8096,10.25 17.4996,10.25 C18.1896,10.25 18.7496,10.81 18.7496,11.5" id="Fill-18" fill="#FFFFFF"></path>
+                </g>
+            </g>
+            <polyline id="Path" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="11 3 6.875 7 5 5.18181818"></polyline>
+        </g>
+    </g>
+</svg>

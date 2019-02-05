@@ -1,0 +1,6 @@
+{
+  "name": "ActiveLink",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./ActiveLink.jsx"
+}

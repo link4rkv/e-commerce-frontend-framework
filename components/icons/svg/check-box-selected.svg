@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>system-icons/check-box-selected</title>
+    <desc>Created with Sketch.</desc>
+    <g id="system-icons/check-box-selected" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group">
+            <rect id="Rectangle" stroke="#0D3577" fill="#1557BF" x="0.5" y="0.5" width="15" height="15" rx="2"></rect>
+            <path d="M10.879818,4.37613375 C11.3754247,3.86350618 12.1667872,3.87649264 12.6473756,4.40513983 C13.127964,4.93378701 13.1157892,5.77790699 12.6201824,6.29053456 L7.46393284,11.6238672 C6.97907418,12.1253776 6.20842706,12.1253776 5.7235684,11.6238672 L3.3798186,9.19962511 C2.88421184,8.68699754 2.87203704,7.84287756 3.35262541,7.31423037 C3.83321378,6.78558319 4.62457629,6.77259673 5.12018304,7.2852243 L6.59375062,8.80939919 L10.879818,4.37613375 Z" id="Path" fill="#FFFFFF"></path>
+        </g>
+    </g>
+</svg>

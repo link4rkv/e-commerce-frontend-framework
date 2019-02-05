@@ -1,0 +1,6 @@
+{
+  "name": "DroppedProductsPopup",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./DroppedProductsPopup.jsx"
+}

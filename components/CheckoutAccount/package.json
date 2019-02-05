@@ -1,0 +1,7 @@
+{
+    "name": "CheckoutAccount",
+    "version": "0.0.0",
+    "private": true,
+    "main": "./CheckoutAccount.jsx"
+}
+  

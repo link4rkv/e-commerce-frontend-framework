@@ -1,0 +1,7 @@
+{
+    "name": "CheckoutDeliveryPickup",
+    "version": "0.0.0",
+    "private": true,
+    "main": "./CheckoutDeliveryPickup.jsx"
+}
+  

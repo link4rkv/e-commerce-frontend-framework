@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>system-icons/favourite-active</title>
+    <desc>Created with Sketch.</desc>
+    <g id="system-icons/favourite-active" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M18.7662505,6.23770154 C17.9766846,5.44523458 16.9055809,5 15.788704,5 C14.6718271,5 13.6007234,5.44523458 12.8111576,6.23770154 L11.9997953,7.05166282 L11.188433,6.23770154 C9.54397949,4.58798048 6.87779361,4.5879805 5.23334013,6.23770159 C3.58888664,7.88742267 3.58888662,10.562149 5.23334008,12.2118701 L6.04470236,13.0258314 L11.9997953,19 L17.9548882,13.0258314 L18.7662505,12.2118701 C19.5561871,11.4197751 20,10.3452404 20,9.22478584 C20,8.10433127 19.5561871,7.02979659 18.7662505,6.23770154 Z" id="Path" stroke="#DD0D42" fill="#FC414B"></path>
+    </g>
+</svg>

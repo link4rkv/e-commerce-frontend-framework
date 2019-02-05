@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>system-icons/alert</title>
+    <desc>Created with Sketch.</desc>
+    <g id="system-icons/alert" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="alert-triangle" transform="translate(1.000000, 1.000000)">
+            <path d="M5.85432826,0.744550995 L0.179568265,11.6799097 C-0.0585159702,12.1558373 -0.0599374701,12.7418513 0.175834126,13.2193104 C0.411605722,13.6967695 0.849157798,13.9939599 1.32524,14 L12.67476,14 C13.1508422,13.9939599 13.5883943,13.6967695 13.8241659,13.2193104 C14.0599375,12.7418513 14.058516,12.1558373 13.8204317,11.6799097 L8.14567174,0.744550995 C7.90275873,0.282297234 7.46837618,0 7,0 C6.53162382,0 6.09724127,0.282297234 5.85432826,0.744550995 Z" id="Path" fill="#DD0D42"></path>
+            <circle id="Oval" fill="#FFFFFF" cx="7" cy="11" r="1"></circle>
+        </g>
+        <rect id="Rectangle" fill="#FFFFFF" x="7" y="5" width="2" height="5" rx="1"></rect>
+    </g>
+</svg>

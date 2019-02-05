@@ -1,0 +1,6 @@
+{
+  "name": "CartProvider",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./CartProvider.jsx"
+}

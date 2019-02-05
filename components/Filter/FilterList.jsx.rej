@@ -1,0 +1,14 @@
+diff a/components/Filter/FilterList.jsx b/components/Filter/FilterList.jsx	(rejected hunks)
+@@ -106,3 +104 @@ class FilterList extends Component {
+-  toggleCheckbox(e) {
+-
+-  }
++  toggleCheckbox(e) {}
+@@ -125,5 +121,2 @@ class FilterList extends Component {
+-            <Styled onClick={event=>this.props.onClick(event,e)}>
+-              <input
+-                type="checkbox"
+-                checked={e.checked}
+-              />
++            <Styled onClick={event => this.props.onClick(event, e)}>
++              <input type="checkbox" checked={e.checked} />

@@ -1,0 +1,6 @@
+{
+  "name": "ConfirmationNotification",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./ConfirmationNotification.jsx"
+}

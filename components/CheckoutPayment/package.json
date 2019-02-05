@@ -1,0 +1,6 @@
+{
+    "name": "CheckoutPayment",
+    "version": "0.0.0",
+    "private": true,
+    "main": "./CheckoutPayment.jsx"
+}

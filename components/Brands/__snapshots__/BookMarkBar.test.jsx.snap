@@ -1,0 +1,415 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render a Bookmark bar 1`] = `
+<DocumentFragment>
+  <div
+    class="BookMarkBar__BookMarkBarContainer-sc-1suvolm-0 hwOxDi"
+    data-testid="bookmarkbar"
+  >
+    <a
+      class="BookMarkBar__StyledLink-sc-1suvolm-1 bNUUWM"
+      href="#A"
+    >
+      <span
+        class="Text-sc-1bsd7ul-0 BookMarkBar__StyledTextForMobileAndTab-sc-1suvolm-3 hzSEFF"
+      >
+        A
+      </span>
+      <span
+        class="Text-sc-1bsd7ul-0 BookMarkBar__StyledTextForPC-sc-1suvolm-4 gqvOJW"
+      >
+        A
+      </span>
+    </a>
+    <a
+      class="BookMarkBar__StyledLink-sc-1suvolm-1 bNUUWM"
+      href="#B"
+    >
+      <span
+        class="Text-sc-1bsd7ul-0 BookMarkBar__StyledTextForMobileAndTab-sc-1suvolm-3 hzSEFF"
+      >
+        B
+      </span>
+      <span
+        class="Text-sc-1bsd7ul-0 BookMarkBar__StyledTextForPC-sc-1suvolm-4 gqvOJW"
+      >
+        B
+      </span>
+    </a>
+    <a
+      class="BookMarkBar__StyledLink-sc-1suvolm-1 bNUUWM"
+      href="#C"
+    >
+      <span
+        class="Text-sc-1bsd7ul-0 BookMarkBar__StyledTextForMobileAndTab-sc-1suvolm-3 hzSEFF"
+      >
+        C
+      </span>
+      <span
+        class="Text-sc-1bsd7ul-0 BookMarkBar__StyledTextForPC-sc-1suvolm-4 gqvOJW"
+      >
+        C
+      </span>
+    </a>
+    <a
+      class="BookMarkBar__StyledLink-sc-1suvolm-1 bNUUWM"
+      href="#D"
+    >
+      <span
+        class="Text-sc-1bsd7ul-0 BookMarkBar__StyledTextForMobileAndTab-sc-1suvolm-3 hzSEFF"
+      >
+        D
+      </span>
+      <span
+        class="Text-sc-1bsd7ul-0 BookMarkBar__StyledTextForPC-sc-1suvolm-4 gqvOJW"
+      >
+        D
+      </span>
+    </a>
+    <a
+      class="BookMarkBar__StyledLink-sc-1suvolm-1 bNUUWM"
+      href="#E"
+    >
+      <span
+        class="Text-sc-1bsd7ul-0 BookMarkBar__StyledTextForMobileAndTab-sc-1suvolm-3 hzSEFF"
+      >
+        E
+      </span>
+      <span
+        class="Text-sc-1bsd7ul-0 BookMarkBar__StyledTextForPC-sc-1suvolm-4 gqvOJW"
+      >
+        E
+      </span>
+    </a>
+    <a
+      class="BookMarkBar__StyledLink-sc-1suvolm-1 bNUUWM"
+      href="#F"
+    >
+      <span
+        class="Text-sc-1bsd7ul-0 BookMarkBar__StyledTextForMobileAndTab-sc-1suvolm-3 hzSEFF"
+      >
+        F
+      </span>
+      <span
+        class="Text-sc-1bsd7ul-0 BookMarkBar__StyledTextForPC-sc-1suvolm-4 gqvOJW"
+      >
+        F
+      </span>
+    </a>
+    <a
+      class="BookMarkBar__StyledLink-sc-1suvolm-1 bNUUWM"
+      href="#G"
+    >
+      <span
+        class="Text-sc-1bsd7ul-0 BookMarkBar__StyledTextForMobileAndTab-sc-1suvolm-3 hzSEFF"
+      >
+        G
+      </span>
+      <span
+        class="Text-sc-1bsd7ul-0 BookMarkBar__StyledTextForPC-sc-1suvolm-4 gqvOJW"
+      >
+        G
+      </span>
+    </a>
+    <a
+      class="BookMarkBar__StyledLink-sc-1suvolm-1 bNUUWM"
+      href="#H"
+    >
+      <span
+        class="Text-sc-1bsd7ul-0 BookMarkBar__StyledTextForMobileAndTab-sc-1suvolm-3 hzSEFF"
+      >
+        H
+      </span>
+      <span
+        class="Text-sc-1bsd7ul-0 BookMarkBar__StyledTextForPC-sc-1suvolm-4 gqvOJW"
+      >
+        H
+      </span>
+    </a>
+    <a
+      class="BookMarkBar__StyledLink-sc-1suvolm-1 bNUUWM"
+      href="#I"
+    >
+      <span
+        class="Text-sc-1bsd7ul-0 BookMarkBar__StyledTextForMobileAndTab-sc-1suvolm-3 hzSEFF"
+      >
+        I
+      </span>
+      <span
+        class="Text-sc-1bsd7ul-0 BookMarkBar__StyledTextForPC-sc-1suvolm-4 gqvOJW"
+      >
+        I
+      </span>
+    </a>
+    <a
+      class="BookMarkBar__StyledLink-sc-1suvolm-1 bNUUWM"
+      href="#J"
+    >
+      <span
+        class="Text-sc-1bsd7ul-0 BookMarkBar__StyledTextForMobileAndTab-sc-1suvolm-3 hzSEFF"
+      >
+        J
+      </span>
+      <span
+        class="Text-sc-1bsd7ul-0 BookMarkBar__StyledTextForPC-sc-1suvolm-4 gqvOJW"
+      >
+        J
+      </span>
+    </a>
+    <a
+      class="BookMarkBar__StyledLink-sc-1suvolm-1 bNUUWM"
+      href="#K"
+    >
+      <span
+        class="Text-sc-1bsd7ul-0 BookMarkBar__StyledTextForMobileAndTab-sc-1suvolm-3 hzSEFF"
+      >
+        K
+      </span>
+      <span
+        class="Text-sc-1bsd7ul-0 BookMarkBar__StyledTextForPC-sc-1suvolm-4 gqvOJW"
+      >
+        K
+      </span>
+    </a>
+    <a
+      class="BookMarkBar__StyledLink-sc-1suvolm-1 bNUUWM"
+      href="#L"
+    >
+      <span
+        class="Text-sc-1bsd7ul-0 BookMarkBar__StyledTextForMobileAndTab-sc-1suvolm-3 hzSEFF"
+      >
+        L
+      </span>
+      <span
+        class="Text-sc-1bsd7ul-0 BookMarkBar__StyledTextForPC-sc-1suvolm-4 gqvOJW"
+      >
+        L
+      </span>
+    </a>
+    <a
+      class="BookMarkBar__StyledLink-sc-1suvolm-1 bNUUWM"
+      href="#M"
+    >
+      <span
+        class="Text-sc-1bsd7ul-0 BookMarkBar__StyledTextForMobileAndTab-sc-1suvolm-3 hzSEFF"
+      >
+        M
+      </span>
+      <span
+        class="Text-sc-1bsd7ul-0 BookMarkBar__StyledTextForPC-sc-1suvolm-4 gqvOJW"
+      >
+        M
+      </span>
+    </a>
+    <a
+      class="BookMarkBar__StyledLink-sc-1suvolm-1 bNUUWM"
+      href="#N"
+    >
+      <span
+        class="Text-sc-1bsd7ul-0 BookMarkBar__StyledTextForMobileAndTab-sc-1suvolm-3 hzSEFF"
+      >
+        N
+      </span>
+      <span
+        class="Text-sc-1bsd7ul-0 BookMarkBar__StyledTextForPC-sc-1suvolm-4 gqvOJW"
+      >
+        N
+      </span>
+    </a>
+    <a
+      class="BookMarkBar__StyledLink-sc-1suvolm-1 bNUUWM"
+      href="#O"
+    >
+      <span
+        class="Text-sc-1bsd7ul-0 BookMarkBar__StyledTextForMobileAndTab-sc-1suvolm-3 hzSEFF"
+      >
+        O
+      </span>
+      <span
+        class="Text-sc-1bsd7ul-0 BookMarkBar__StyledTextForPC-sc-1suvolm-4 gqvOJW"
+      >
+        O
+      </span>
+    </a>
+    <a
+      class="BookMarkBar__StyledLink-sc-1suvolm-1 bNUUWM"
+      href="#P"
+    >
+      <span
+        class="Text-sc-1bsd7ul-0 BookMarkBar__StyledTextForMobileAndTab-sc-1suvolm-3 hzSEFF"
+      >
+        P
+      </span>
+      <span
+        class="Text-sc-1bsd7ul-0 BookMarkBar__StyledTextForPC-sc-1suvolm-4 gqvOJW"
+      >
+        P
+      </span>
+    </a>
+    <a
+      class="BookMarkBar__StyledLink-sc-1suvolm-1 bNUUWM"
+      href="#Q"
+    >
+      <span
+        class="Text-sc-1bsd7ul-0 BookMarkBar__StyledTextForMobileAndTab-sc-1suvolm-3 hzSEFF"
+      >
+        Q
+      </span>
+      <span
+        class="Text-sc-1bsd7ul-0 BookMarkBar__StyledTextForPC-sc-1suvolm-4 gqvOJW"
+      >
+        Q
+      </span>
+    </a>
+    <a
+      class="BookMarkBar__StyledLink-sc-1suvolm-1 bNUUWM"
+      href="#R"
+    >
+      <span
+        class="Text-sc-1bsd7ul-0 BookMarkBar__StyledTextForMobileAndTab-sc-1suvolm-3 hzSEFF"
+      >
+        R
+      </span>
+      <span
+        class="Text-sc-1bsd7ul-0 BookMarkBar__StyledTextForPC-sc-1suvolm-4 gqvOJW"
+      >
+        R
+      </span>
+    </a>
+    <a
+      class="BookMarkBar__StyledLink-sc-1suvolm-1 bNUUWM"
+      href="#S"
+    >
+      <span
+        class="Text-sc-1bsd7ul-0 BookMarkBar__StyledTextForMobileAndTab-sc-1suvolm-3 hzSEFF"
+      >
+        S
+      </span>
+      <span
+        class="Text-sc-1bsd7ul-0 BookMarkBar__StyledTextForPC-sc-1suvolm-4 gqvOJW"
+      >
+        S
+      </span>
+    </a>
+    <a
+      class="BookMarkBar__StyledLink-sc-1suvolm-1 bNUUWM"
+      href="#T"
+    >
+      <span
+        class="Text-sc-1bsd7ul-0 BookMarkBar__StyledTextForMobileAndTab-sc-1suvolm-3 hzSEFF"
+      >
+        T
+      </span>
+      <span
+        class="Text-sc-1bsd7ul-0 BookMarkBar__StyledTextForPC-sc-1suvolm-4 gqvOJW"
+      >
+        T
+      </span>
+    </a>
+    <a
+      class="BookMarkBar__StyledLink-sc-1suvolm-1 bNUUWM"
+      href="#U"
+    >
+      <span
+        class="Text-sc-1bsd7ul-0 BookMarkBar__StyledTextForMobileAndTab-sc-1suvolm-3 hzSEFF"
+      >
+        U
+      </span>
+      <span
+        class="Text-sc-1bsd7ul-0 BookMarkBar__StyledTextForPC-sc-1suvolm-4 gqvOJW"
+      >
+        U
+      </span>
+    </a>
+    <a
+      class="BookMarkBar__StyledLink-sc-1suvolm-1 bNUUWM"
+      href="#V"
+    >
+      <span
+        class="Text-sc-1bsd7ul-0 BookMarkBar__StyledTextForMobileAndTab-sc-1suvolm-3 hzSEFF"
+      >
+        V
+      </span>
+      <span
+        class="Text-sc-1bsd7ul-0 BookMarkBar__StyledTextForPC-sc-1suvolm-4 gqvOJW"
+      >
+        V
+      </span>
+    </a>
+    <a
+      class="BookMarkBar__StyledLink-sc-1suvolm-1 bNUUWM"
+      href="#W"
+    >
+      <span
+        class="Text-sc-1bsd7ul-0 BookMarkBar__StyledTextForMobileAndTab-sc-1suvolm-3 hzSEFF"
+      >
+        W
+      </span>
+      <span
+        class="Text-sc-1bsd7ul-0 BookMarkBar__StyledTextForPC-sc-1suvolm-4 gqvOJW"
+      >
+        W
+      </span>
+    </a>
+    <a
+      class="BookMarkBar__StyledLink-sc-1suvolm-1 bNUUWM"
+      href="#X"
+    >
+      <span
+        class="Text-sc-1bsd7ul-0 BookMarkBar__StyledTextForMobileAndTab-sc-1suvolm-3 hzSEFF"
+      >
+        X
+      </span>
+      <span
+        class="Text-sc-1bsd7ul-0 BookMarkBar__StyledTextForPC-sc-1suvolm-4 gqvOJW"
+      >
+        X
+      </span>
+    </a>
+    <a
+      class="BookMarkBar__StyledLink-sc-1suvolm-1 bNUUWM"
+      href="#Y"
+    >
+      <span
+        class="Text-sc-1bsd7ul-0 BookMarkBar__StyledTextForMobileAndTab-sc-1suvolm-3 hzSEFF"
+      >
+        Y
+      </span>
+      <span
+        class="Text-sc-1bsd7ul-0 BookMarkBar__StyledTextForPC-sc-1suvolm-4 gqvOJW"
+      >
+        Y
+      </span>
+    </a>
+    <a
+      class="BookMarkBar__StyledLink-sc-1suvolm-1 bNUUWM"
+      href="#Z"
+    >
+      <span
+        class="Text-sc-1bsd7ul-0 BookMarkBar__StyledTextForMobileAndTab-sc-1suvolm-3 hzSEFF"
+      >
+        Z
+      </span>
+      <span
+        class="Text-sc-1bsd7ul-0 BookMarkBar__StyledTextForPC-sc-1suvolm-4 gqvOJW"
+      >
+        Z
+      </span>
+    </a>
+    <div
+      class="BookMarkBar__StyledDiv-sc-1suvolm-2 eDAPOc"
+    >
+      <span
+        class="Text-sc-1bsd7ul-0 BookMarkBar__StyledTextForMobileAndTab-sc-1suvolm-3 hzSEFF"
+      >
+        #
+      </span>
+      <span
+        class="Text-sc-1bsd7ul-0 BookMarkBar__StyledTextForPC-sc-1suvolm-4 gqvOJW"
+      >
+        #
+      </span>
+    </div>
+  </div>
+</DocumentFragment>
+`;

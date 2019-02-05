@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>system-icons/camera</title>
+    <desc>Created with Sketch.</desc>
+    <g id="system-icons/camera" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M21,18.2222222 C21,19.2040618 20.267375,20 19.3636364,20 L4.63636364,20 C3.73262495,20 3,19.2040618 3,18.2222222 L3,8.44444444 C3,7.46260489 3.73262495,6.66666667 4.63636364,6.66666667 L7.90909091,6.66666667 L9.54545455,4 L14.4545455,4 L16.0909091,6.66666667 L19.3636364,6.66666667 C20.267375,6.66666667 21,7.46260489 21,8.44444444 L21,18.2222222 Z M12,16 C13.6568542,16 15,14.6568542 15,13 C15,11.3431458 13.6568542,10 12,10 C10.3431458,10 9,11.3431458 9,13 C9,14.6568542 10.3431458,16 12,16 Z" id="Combined-Shape" stroke="#1557BF"></path>
+    </g>
+</svg>

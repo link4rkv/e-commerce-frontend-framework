@@ -1,0 +1,7 @@
+{
+    "name": "BannerWithButton",
+    "version": "0.0.0",
+    "private": true,
+    "main": "./BannerWithButton.jsx"
+}
+  

@@ -1,0 +1,6 @@
+{
+  "name": "ImageSlideShowCard",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./ImageSlideShowCard.jsx"
+}

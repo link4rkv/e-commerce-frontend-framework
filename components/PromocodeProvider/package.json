@@ -1,0 +1,6 @@
+{
+  "name": "PromocodeProvider",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./PromocodeProvider.jsx"
+}

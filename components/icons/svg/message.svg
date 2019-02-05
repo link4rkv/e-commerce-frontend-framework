@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>system-icons/message</title>
+    <desc>Created with Sketch.</desc>
+    <g id="system-icons/message" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M3.5,19.7928932 L6.64644661,16.6464466 C6.7402148,16.5526784 6.86739176,16.5 7,16.5 L19,16.5 C19.8284271,16.5 20.5,15.8284271 20.5,15 L20.5,5 C20.5,4.17157288 19.8284271,3.5 19,3.5 L5,3.5 C4.17157288,3.5 3.5,4.17157288 3.5,5 L3.5,19.7928932 Z M7.20710678,17.5 L3.35355339,21.3535534 C3.03857096,21.6685358 2.5,21.4454524 2.5,21 L2.5,5 C2.5,3.61928813 3.61928813,2.5 5,2.5 L19,2.5 C20.3807119,2.5 21.5,3.61928813 21.5,5 L21.5,15 C21.5,16.3807119 20.3807119,17.5 19,17.5 L7.20710678,17.5 Z" id="Path" fill="#1557BF"></path>
+    </g>
+</svg>

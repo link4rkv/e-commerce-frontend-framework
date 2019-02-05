@@ -1,0 +1,6 @@
+{
+  "name": "UpdateNotification",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./UpdateNotification.jsx"
+}

@@ -1,0 +1,7 @@
+{
+    "name": "CategoriesDetails",
+    "version": "0.0.0",
+    "private": true,
+    "main": "./CategoriesDetails.jsx"
+}
+  

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>system-icons/collapse</title>
+    <desc>Created with Sketch.</desc>
+    <g id="system-icons/collapse" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M17.3328018,9.69319091 C16.9280865,9.31035214 16.2691793,9.31293846 15.8711163,9.68948456 L12,13.3513514 L8.12888367,9.68948456 C7.72633234,9.30869275 7.07529297,9.3071553 6.66719818,9.69319091 L6.73280182,9.63113341 C6.32808655,10.0139722 6.32258606,10.6294733 6.72374019,11.0089434 L11.2762598,15.3153809 C11.6759705,15.6934856 12.3225861,15.694851 12.7237402,15.3153809 L17.2762598,11.0089434 C17.6759705,10.6308387 17.675293,10.017169 17.2671982,9.63113341 L17.3328018,9.69319091 Z" id="Shape" fill="#1557BF" transform="translate(12.000000, 12.500000) scale(1, -1) translate(-12.000000, -12.500000) "></path>
+    </g>
+</svg>

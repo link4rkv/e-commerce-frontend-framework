@@ -1,0 +1,7 @@
+{
+    "name": "ProductCollection",
+    "version": "0.0.0",
+    "private": true,
+    "main": "./ProductCollection.jsx"
+}
+  

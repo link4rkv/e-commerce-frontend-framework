@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>system-icons/credit-card</title>
+    <desc>Created with Sketch.</desc>
+    <g id="system-icons/credit-card" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M3.5,10 L20.5,10 L20.5,8 C20.5,7.17157288 19.8284271,6.5 19,6.5 L5,6.5 C4.17157288,6.5 3.5,7.17157288 3.5,8 L3.5,10 Z M3.5,11 L3.5,16 C3.5,16.8284271 4.17157288,17.5 5,17.5 L19,17.5 C19.8284271,17.5 20.5,16.8284271 20.5,16 L20.5,11 L3.5,11 Z M5,5.5 L19,5.5 C20.3807119,5.5 21.5,6.61928813 21.5,8 L21.5,16 C21.5,17.3807119 20.3807119,18.5 19,18.5 L5,18.5 C3.61928813,18.5 2.5,17.3807119 2.5,16 L2.5,8 C2.5,6.61928813 3.61928813,5.5 5,5.5 Z" id="Combined-Shape" fill="#1557BF"></path>
+    </g>
+</svg>

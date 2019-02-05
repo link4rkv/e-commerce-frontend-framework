@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>system-icons/success</title>
+    <desc>Created with Sketch.</desc>
+    <g id="system-icons/success" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Oval" fill="#0B8043" cx="8" cy="8" r="8"></circle>
+        <path d="M10.3038542,5.28209961 C10.7003396,4.89762888 11.3334297,4.90736872 11.7179004,5.30385416 C12.1023711,5.7003396 12.0926313,6.33342966 11.6961458,6.71790039 L7.57114584,10.7179004 C7.18325888,11.0940332 6.56674112,11.0940332 6.17885416,10.7179004 L4.30385416,8.89971858 C3.90736872,8.51524785 3.89762888,7.88215778 4.28209961,7.48567235 C4.66657034,7.08918691 5.2996604,7.07944706 5.69614584,7.46391779 L6.875,8.6070491 L10.3038542,5.28209961 Z" id="Path" fill="#FFFFFF"></path>
+    </g>
+</svg>

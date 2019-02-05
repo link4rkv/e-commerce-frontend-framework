@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>system-icons/menu</title>
+    <desc>Created with Sketch.</desc>
+    <g id="system-icons/menu" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M3,12.5 C2.72385763,12.5 2.5,12.2761424 2.5,12 C2.5,11.7238576 2.72385763,11.5 3,11.5 L21,11.5 C21.2761424,11.5 21.5,11.7238576 21.5,12 C21.5,12.2761424 21.2761424,12.5 21,12.5 L3,12.5 Z M3,6.5 C2.72385763,6.5 2.5,6.27614237 2.5,6 C2.5,5.72385763 2.72385763,5.5 3,5.5 L21,5.5 C21.2761424,5.5 21.5,5.72385763 21.5,6 C21.5,6.27614237 21.2761424,6.5 21,6.5 L3,6.5 Z M3,18.5 C2.72385763,18.5 2.5,18.2761424 2.5,18 C2.5,17.7238576 2.72385763,17.5 3,17.5 L21,17.5 C21.2761424,17.5 21.5,17.7238576 21.5,18 C21.5,18.2761424 21.2761424,18.5 21,18.5 L3,18.5 Z" id="Combined-Shape" fill="#1557BF"></path>
+    </g>
+</svg>
